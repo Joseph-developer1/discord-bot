@@ -1,4 +1,7 @@
 # WEE7-discord-bot
+
+* goto releases and download the latest version.
+
 # things you must install first
 * node.js
 * visual studio code
