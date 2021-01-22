@@ -1,4 +1,4 @@
-# WEE7-discord-bot
+# discord-bot
 
 * goto releases and download the latest version.
 
