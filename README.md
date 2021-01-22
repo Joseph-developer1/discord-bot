@@ -1,0 +1,1 @@
+# WEE7-discord-bot
